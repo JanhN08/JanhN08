@@ -5,9 +5,9 @@
 
   <br/><br/>
 
-  <!-- Centered Profile Photo (Uses your exact assests folder path) -->
+  <!-- Direct Profile Photo Link -->
   <a href="https://github.com/JanhN08">
-    <img src="./assests/profile.png" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #2563eb;" alt="Janhavi Narwade" />
+    <img src="https://github.com/JanhN08.png" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #2563eb;" alt="Janhavi Narwade" />
   </a>
 
   <br/><br/>
@@ -48,7 +48,7 @@ class JanhaviNarwade:
         self.currently_exploring = "Endpoint Detection & OS-Level Malware Mitigation"
         self.philosophy          = "Security is not a product, but an ongoing engineered process."
         self.open_to             = "Internships · Security Research · AI/ML Collaborations"
-        self.email               = "janhavinarwade08@gmail.com"
+        self.email               = "janhavinarwade04@gmail.com"
 
     def say_hi(self):
         print("Thanks for visiting — let's turn security data into actionable intelligence!")
