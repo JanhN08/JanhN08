@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Top Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3B82F6&height=200&section=header&text=Janhavi%20Narwade&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Software%20Developer%20%7C%20Systems%20%26%20EDR%20Engineering&descSize=18&descAlignY=62" width="100%" alt="Janhavi Narwade Banner" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3B82F6&height=200&section=header&text=Janhavi%20Narwade&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Software%20Developer%20%7C%20Systems%20%26%20EDR%20Engineering&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
-  <!-- Circular Profile Picture -->
+  <!-- Profile Image -->
   <a href="https://github.com/JanhN08">
-    <img src="https://raw.githubusercontent.com/JanhN08/JanhN08/main/profile.jpeg" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #3B82F6;" alt="Janhavi Narwade" />
+    <img src="https://avatars.githubusercontent.com/u/JanhN08" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 3px solid #3B82F6;" alt="Janhavi Narwade" />
   </a>
 
   <br/><br/>
 
-  <!-- Shields Badges -->
+  <!-- Badges -->
   <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/JanhN08/ransomware-mitigation-daemon"><img src="https://img.shields.io/badge/EDR_TOOL-LIVE_DEMO-008080?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="mailto:janhavinarwade08@gmail.com"><img src="https://img.shields.io/badge/GMAIL-MAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -25,8 +25,8 @@
 
   <br/><br/>
 
-  <!-- Highlight Sub-Headline -->
-  <h2 align="center"><b>2 Production-Grade Security Tools | Systems Programming</b></h2>
+  <!-- TYPING ANIMATION (Recreating the exact dynamic text effect from the video) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Security+Software+Developer;Systems+%26+EDR+Engineering;Python+%7C+C%2FC%2B%2B+%7C+Linux+Internals;Open+for+Global+Remote+Roles" alt="Typing Animation" />
 
 </div>
 
