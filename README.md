@@ -1,33 +1,36 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:0074D9&height=200&section=header&text=Janhavi%20Narwade&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Software%20Developer%20%7C%20Systems%20%26%20EDR%20Engineering&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Top Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3B82F6&height=200&section=header&text=Janhavi%20Narwade&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Security%20Software%20Developer%20%7C%20Systems%20%26%20EDR%20Engineering&descSize=18&descAlignY=62" width="100%" alt="Janhavi Narwade Banner" />
 
   <br/><br/>
 
-  <!-- Profile Image -->
-  <img src="https://github.com/JanhN08.png" width="140" style="border-radius: 50%; border: 3px solid #0074D9;" alt="Janhavi Narwade" />
+  <!-- Circular Profile Picture -->
+  <a href="https://github.com/JanhN08">
+    <img src="https://raw.githubusercontent.com/JanhN08/JanhN08/main/profile.jpeg" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #3B82F6;" alt="Janhavi Narwade" />
+  </a>
 
   <br/><br/>
 
-  <!-- Badges Grid -->
+  <!-- Shields Badges -->
   <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/JanhN08"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:janhavinarwade08@gmail.com"><img src="https://img.shields.io/badge/GMAIL-MAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/JanhN08/ransomware-mitigation-daemon"><img src="https://img.shields.io/badge/EDR_TOOL-LIVE_DEMO-008080?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="mailto:janhavinarwade08@gmail.com"><img src="https://img.shields.io/badge/GMAIL-MAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/JanhN08/cli-network-audit-utility"><img src="https://img.shields.io/badge/NETWORK_AUDIT-CLI_TOOL-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
   <br/><br/>
 
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=JanhN08&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=JanhN08&color=0074D9&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
 
-  <h3>🛡️ Security Software Developer | Systems Programming (Python, C/C++, Linux)</h3>
+  <!-- Highlight Sub-Headline -->
+  <h2 align="center"><b>2 Production-Grade Security Tools | Systems Programming</b></h2>
 
 </div>
 
----
+<hr />
 
 ### 👋 About Me
 
@@ -101,6 +104,6 @@ I am a **Systems & Security Software Developer** specializing in low-overhead en
 
 <div align="center">
   <p>📫 <b>Open for Global Remote Security Engineering Roles & Internships</b></p>
-  <a href="mailto:janhavinarwade04@gmail.com"><b>Contact via Email</b></a> • 
-  <a href="https://www.linkedin.com/in/janhavi-narwade-b2a38931b/"><b>Connect on LinkedIn</b></a>
+  <a href="mailto:janhavinarwade08@gmail.com"><b>Contact via Email</b></a> • 
+  <a href="https://linkedin.com/in/your-linkedin-handle"><b>Connect on LinkedIn</b></a>
 </div>
